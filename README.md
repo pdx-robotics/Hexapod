@@ -18,4 +18,6 @@ This hexapod is originally Vorpal The Hexabot developed by  [Vorpal Robotics LLC
 [Robotic Arm User Guide](https://vorpalrobotics.com/wiki/index.php/Hexapod_Grip_Arm)
 
 ## VRS Test Videos:
-Coming Soon...
+* VRS Hexapod (Vorpal) Test 1: https://www.youtube.com/watch?v=3Or52KWkDiw
+
+* Test Video 2
