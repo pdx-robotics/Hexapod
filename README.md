@@ -19,6 +19,8 @@ This hexapod is originally Vorpal The Hexabot developed by  [Vorpal Robotics LLC
 * [Robotic Arm Actuator 3D Designs](https://www.thingiverse.com/thing:3231634)
 
 ## VRS Test Videos:
-* VRS Hexapod (Vorpal) Test 1: https://www.youtube.com/watch?v=3Or52KWkDiw
+* Test 1: https://www.youtube.com/watch?v=3Or52KWkDiw
 
-* Test Video 2
+* Test 2: https://www.youtube.com/watch?v=QWtAPr5mfY0
+
+* Test 3: https://www.youtube.com/watch?v=p9wLUJ8lF5k
